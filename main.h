@@ -1,0 +1,14 @@
+//
+// Created by ko028234 on 12/14/2023.
+//
+
+#ifndef GRAPH_PUZZLE_GAME_KEREM_OKUMUS_MAIN_H
+#define GRAPH_PUZZLE_GAME_KEREM_OKUMUS_MAIN_H
+
+
+class main {
+
+};
+
+
+#endif //GRAPH_PUZZLE_GAME_KEREM_OKUMUS_MAIN_H
